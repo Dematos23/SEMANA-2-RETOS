@@ -1,0 +1,49 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #2f2f3b;
+    margin-bottom: 0;
+}
+
+p{
+    color: #444444;
+    margin-top: 0;
+}
+
+.formulario{
+    width: 400px;
+    text-align: center;
+}
+
+.preguntas{
+}
+
+input{
+    border-color: rgb(212, 212, 212);
+    border-style: solid;
+    color: #bebebe;
+    font-weight: bold;
+    width: 90%;
+    padding-left: 15px;
+}
+
+.titulo{
+    align-content: center;
+}
+
+input{
+    height: 30px;
+    margin: 5px;
+}
+
+.boton{
+    background-color: yellowgreen;
+    color: rgb(253, 253, 253);
+    border-style: none;
+    width: 75px;
+    padding-left: 0;
+}
